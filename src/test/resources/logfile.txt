@@ -1,0 +1,4 @@
+{"id":"abcd","state":"STARTED","type":"APPLICATION_LOG","host":"local","timestamp":12333}
+{"id":"abcd","state":"FINISHED","type":"APPLICATION_LOG","host":"local","timestamp":12335}
+{"id":"abcd2","state":"FINISHED","timestamp":12345}
+{"id":"abcd2","state":"STARTED","timestamp":12350}

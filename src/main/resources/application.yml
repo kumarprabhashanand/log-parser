@@ -1,0 +1,11 @@
+spring:
+  jpa:
+    database: HSQL
+    show-sql: false
+    hibernate:
+      ddl-auto: update
+
+  datasource:
+    url: jdbc:hsqldb:file:data/testdb
+    driverClassName: org.hsqldb.jdbc.JDBCDriver
+
