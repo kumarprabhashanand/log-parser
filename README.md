@@ -5,12 +5,12 @@ To Run this project, simply execute below commands:
 ./gradlew clean build
 ```
 ```
-java -jar build/libs/demo-0.0.1-SNAPSHOT.jar "filename with path"
+java -jar build/libs/log-parser-0.0.1-SNAPSHOT.jar "filename with path"
 ```
 
 Example:
 ```
-java -jar build/libs/demo-0.0.1-SNAPSHOT.jar /Users/prabhashkumar/Desktop/logfile.txt
+java -jar build/libs/log-parser-0.0.1-SNAPSHOT.jar /Users/prabhashkumar/Desktop/logfile.txt
 ```
 
 Generate Test Report:
